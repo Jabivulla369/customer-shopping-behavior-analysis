@@ -1,6 +1,6 @@
-# 🛒 Customer Shopping Behavior Analysis
+# 🛒 Customer Shopping Behaviour Analysis
 
-An end-to-end data analytics portfolio project that investigates retail customer purchasing patterns, demographics, product preferences, and subscription behavior using Python, SQL (SQL Server), and Power BI.
+An end-to-end data analytics portfolio project that investigates retail customer purchasing patterns, demographics, product preferences, and subscription behaviour using Python, SQL (SQL Server), and Power BI.
 
 ---
 
@@ -15,7 +15,7 @@ An end-to-end data analytics portfolio project that investigates retail customer
 ---
 
 ## 📌 Project Overview
-This project analyzes customer shopping behavior using transactional data from 3,900 purchases across various product categories. The primary goal is to uncover actionable insights into spending patterns, customer segments, product preferences, and subscription behavior to guide strategic business decisions.
+This project analyzes customer shopping behaviour using transactional data from 3,900 purchases across various product categories. The primary goal is to uncover actionable insights into spending patterns, customer segments, product preferences, and subscription behaviour to guide strategic business decisions.
 
 ---
 
@@ -25,7 +25,7 @@ This project analyzes customer shopping behavior using transactional data from 3
 * **Key Features:** 
   * **Customer Demographics:** Age, Gender, Location, and Subscription Status.
   * **Purchase Details:** Item Purchased, Category, Purchase Amount, Season, Size, and Color.
-  * **Shopping Behavior:** Discount Applied, Promo Code Used, Previous Purchases, Frequency of Purchases, Review Rating, and Shipping Type.
+  * **Shopping Behaviour:** Discount Applied, Promo Code Used, Previous Purchases, Frequency of Purchases, Review Rating, and Shipping Type.
 * **Missing Data:** Identified 37 missing values in the `Review Rating` column.
 
 ---
